@@ -1,0 +1,1 @@
+This simple news app to learn django 
